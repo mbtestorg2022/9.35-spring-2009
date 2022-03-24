@@ -30,7 +30,7 @@ Problem Set Solutions (Selected)
 Problem set 1 ([PDF]({{< baseurl >}}/resources/mit9_35s09_pset01))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset01))
+Problem set 1 ([PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset01))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ Ses #8
 Problem set 2 ([PDF]({{< baseurl >}}/resources/mit9_35s09_pset02))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset02))
+Problem set 2 ([PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset02))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +54,7 @@ Ses #11
 Problem set 3 ([PDF]({{< baseurl >}}/resources/mit9_35s09_pset03))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset03))
+Problem set 3 ([PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset03))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +76,7 @@ Image file, mdr\_im.mat ([MAT]({{< baseurl >}}/resources/mdr_im))
 
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.2MB]({{< baseurl >}}/resources/mit9_35s09_sol_pset04))
+Problem set 4 ([PDF - 3.2MB]({{< baseurl >}}/resources/mit9_35s09_sol_pset04))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +118,7 @@ s1.wav ([WAV]({{< baseurl >}}/resources/s1))
 
 Problem set 6 part 1 ([PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset06_part1))
 
-Problem set 6 full (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset06_full))
+Problem set 6 full ([PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset06_full))
 
 
 {{< tdclose >}}
