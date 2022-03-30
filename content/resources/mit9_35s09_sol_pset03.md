@@ -4,6 +4,7 @@ description: Solutions to a problem set on frequency decomposition of images and
   images.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-35-sensation-and-perception-spring-2009/49d4a8e271a66bf7cb828b49faf3e28f_MIT9_35s09_sol_pset03.pdf
 file_type: application/pdf
+parent_uid: ba1aa567-2f23-145b-a818-1dc847c6400c
 resourcetype: Document
 title: 'Problem Set 2: Answer key'
 uid: 49d4a8e2-71a6-6bf7-cb82-8b49faf3e28f
